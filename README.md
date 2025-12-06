@@ -1,7 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Jonatan%20Sanchez&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20Fullstack%20%26%20Cloud%20|%20Ciberseguridad&descAlignY=51&descAlign=62" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Jonatan%20Sanchez&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Ciberseguridad&descAlignY=51&descAlign=62" width="100%"/>
   ## 🚀 Sobre mí
   
   <p align="left">
