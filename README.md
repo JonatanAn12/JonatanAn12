@@ -10,38 +10,82 @@
   </p>
 
   ---
-## 🛠️ Tech Stack — Versión Keycaps (Shields.io)
+## 🎹 Tech Stack — Versión Tablero / Teclado
 
-### 💻 Frontend & Mobile
-![HTML5](https://img.shields.io/badge/HTML5-FF6D4A?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-2AA2F3?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-00C8FF?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-41B883?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-### ⚙️ Backend
-![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-7377AD?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![AdonisJS](https://img.shields.io/badge/AdonisJS-220052?style=for-the-badge&logo=adonisjs&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF4500?style=for-the-badge&logo=aws-lambda&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### 🗄️ Bases de Datos
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+<table align="center">
+  <tr>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br/>
+      <sub>HTML5</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/><br/>
+      <sub>CSS3</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br/>
+      <sub>JavaScript</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/><br/>
+      <sub>TypeScript</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br/>
+      <sub>React</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/><br/>
+      <sub>Next.js</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40"/><br/>
+      <sub>Vue</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/><br/>
+      <sub>Flutter</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/><br/>
+      <sub>Java</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/><br/>
+      <sub>Spring</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/><br/>
+      <sub>PHP</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40"/><br/>
+      <sub>Laravel</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/><br/>
+      <sub>Node.js</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/><br/>
+      <sub>AWS</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/><br/>
+      <sub>Docker</sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br/>
+      <sub>MySQL</sub>
+    </td>
+  </tr>
+</table>
 
 
   ## 📊 GitHub Stats
