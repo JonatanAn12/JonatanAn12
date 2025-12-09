@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Jonatan%20Sanchez&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Ciberseguridad&descAlignY=51&descAlign=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Jonatan%20Sanchez&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Ciberseguridad&descAlignY=51&descAlign=62" width="100%"/>
+
   ## 🚀 Sobre mí
   
   <p align="left">
@@ -10,7 +11,8 @@
   </p>
 
   ---
- ## 🛠️ Tech Stack
+
+  ## 🛠️ Tech Stack
 
   ### 💻 Frontend & Mobile
   <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
@@ -31,7 +33,7 @@
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
     <img src="https://img.shields.io/badge/AdonisJS-220052?style=for-the-badge&logo=adonisjs&logoColor=white" />
   </div>
 
@@ -51,12 +53,13 @@
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   </div>
 
+  ---
 
   ## 📊 GitHub Stats
 
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=JonatanAn12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Jonatan's GitHub stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonatanAn12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api?username=JonatanAn12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" alt="Jonatan's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonatanAn12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" alt="Top Langs" />
   </div>
 
   ---
