@@ -10,82 +10,20 @@
   </p>
 
   ---
-# 🎹 Tech Stack — Versión Tablero / Teclado
+# ## 🧩 Tech Stack — Versión Póster / Tablero Compacto
 
-<table align="center">
-  <tr>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br/>
-      <sub>HTML5</sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/><br/>
-      <sub>CSS3</sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br/>
-      <sub>JavaScript</sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/><br/>
-      <sub>TypeScript</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br/>
-      <sub>React</sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/><br/>
-      <sub>Next.js</sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40"/><br/>
-      <sub>Vue</sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/><br/>
-      <sub>Flutter</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/><br/>
-      <sub>Java</sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/><br/>
-      <sub>Spring</sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/><br/>
-      <sub>PHP</sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40"/><br/>
-      <sub>Laravel</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/><br/>
-      <sub>Node.js</sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/><br/>
-      <sub>AWS</sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/><br/>
-      <sub>Docker</sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br/>
-      <sub>MySQL</sub>
-    </td>
-  </tr>
-</table>
+### 💻 Frontend & Mobile
+![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,flutter&perline=8)
+
+### ⚙️ Backend
+![Backend](https://skillicons.dev/icons?i=java,spring,php,laravel,nodejs,express,adonisjs&perline=7)
+
+### ☁️ Cloud & DevOps
+![Cloud & DevOps](https://skillicons.dev/icons?i=aws,docker&perline=6)
+
+### 🗄️ Bases de Datos
+![Databases](https://skillicons.dev/icons?i=mysql,mariadb,postgresql,mongodb&perline=6)
+
 
 
   ## 📊 GitHub Stats
