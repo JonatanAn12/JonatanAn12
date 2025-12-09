@@ -10,7 +10,7 @@
   </p>
 
   ---
-## 🎹 Tech Stack — Versión Tablero / Teclado
+# 🎹 Tech Stack — Versión Tablero / Teclado
 
 <table align="center">
   <tr>
