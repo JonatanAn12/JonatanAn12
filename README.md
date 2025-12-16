@@ -1,13 +1,13 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Jonatan%20Sanchez&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Ciberseguridad&descAlignY=51&descAlign=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Jonatan%20Sanchez&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20&descAlignY=51&descAlign=62" width="100%"/>
 
   ## 🚀 Sobre mí
   
   <p align="left">
     ¡Hola! Soy Jonatan Andres Sanchez Ayala. Como desarrollador Fullstack, tengo la capacidad de crear soluciones completas, desde la arquitectura Backend hasta la experiencia Frontend. Actualmente, estoy desarrollando mi proyecto personal, <strong>Zandi</strong> (una red social completa).
     <br><br>
-    Mi experiencia incluye el desarrollo de webservices, aplicaciones QR, y sistemas de gestión (proveedores, evaluación docente y monitorías) para la Universidad de Ibagué. Siempre busco aplicar las mejores prácticas y tengo un fuerte interés en la Ciberseguridad.
+    Mi experiencia incluye el desarrollo de webservices, aplicaciones QR, y sistemas de gestión (proveedores, evaluación docente y monitorías) para la Universidad de Ibagué. Siempre busco aplicar las mejores prácticas y tengo un fuerte interés en el Desarrollo web, Mobile.
   </p>
 
   ---
