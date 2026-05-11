@@ -57,14 +57,25 @@
 
 ### 🐧 Linux & Infrastructure
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Artix_Linux-10A0CC?style=for-the-badge&logo=artixlinux&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Virtualization-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Linux_Servers-0066CC?style=for-the-badge&logo=serverfault&logoColor=white" />
+  
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/KVM-FF6600?style=for-the-badge&logo=proxmox&logoColor=white" />
-  <img src="https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+
 </div>
-```
+
 
 
   ---
